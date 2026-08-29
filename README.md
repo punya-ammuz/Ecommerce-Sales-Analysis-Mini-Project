@@ -28,8 +28,8 @@ The final Power BI report provides insights into sales performance, products, cu
 ## 🛠️ 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
 
 
--Microsoft Excel - Initial data inspection, cleaning, validation and calculated fields 
- -Power Query - Data transformation and preparation 
+- Microsoft Excel - Initial data inspection, cleaning, validation and calculated fields 
+- Power Query - Data transformation and preparation 
  -Power BI -Data modeling, visualization and dashboard development 
  -DAX - Measures and analytical calculations 
  -GitHub - Project documentation and portfolio presentation 
