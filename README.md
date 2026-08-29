@@ -1,4 +1,6 @@
 🛒 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+
+
  𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 This project presents an end-to-end E-commerce Sales Analysis using Microsoft Excel, Power Query, and Power BI.
 The objective of the project is to transform raw e-commerce transaction data into a structured and interactive business intelligence solution. The project covers data preprocessing, data quality validation, calculated fields, dimensional modeling, DAX measures, and interactive dashboard development.
