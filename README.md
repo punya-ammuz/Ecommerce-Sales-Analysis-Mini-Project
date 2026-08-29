@@ -30,9 +30,9 @@ The final Power BI report provides insights into sales performance, products, cu
 
 - Microsoft Excel - Initial data inspection, cleaning, validation and calculated fields 
 - Power Query - Data transformation and preparation 
- -Power BI -Data modeling, visualization and dashboard development 
- -DAX - Measures and analytical calculations 
- -GitHub - Project documentation and portfolio presentation 
+ - Power BI -Data modeling, visualization and dashboard development 
+ - DAX - Measures and analytical calculations 
+ - GitHub - Project documentation and portfolio presentation 
 
 
 ## 🧹 𝗗𝗮𝘁𝗮 𝗣𝗿𝗲𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴
