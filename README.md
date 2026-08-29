@@ -31,8 +31,8 @@ GitHub- Project documentation and portfolio presentation
 
 
 🧹 Data Preprocessing
-The raw dataset was reviewed and prepared before performing analysis.
 
+The raw dataset was reviewed and prepared before performing analysis.
 Data Cleaning Activities
 Checked for duplicate records
 Reviewed missing values
@@ -67,6 +67,7 @@ Discount Amount = Gross Amount × Discount %  // Calculated based on the gross a
 Net Amount = Gross Amount − Discount Amount // This represents the sales value after discount.
 
 🗂️ Data Modeling
+
 The Power BI model was structured using a fact and dimension table approach.
 𝗙𝗮𝗰𝘁 𝗧𝗮𝗯𝗹𝗲
 
@@ -85,12 +86,14 @@ Discount Amount
 Net Amount
 
 𝗗𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻 𝗧𝗮𝗯𝗹𝗲𝘀
+
 Product_details
 Product ID
 Product Name
 Product Category
 
 Location_details
+
 Contains geographical information such as:
 Location ID
 Country
@@ -98,6 +101,7 @@ Shipping City
 🔗 Data Model
 
 📊 DAX Measures
+
 Key measures created for the Power BI analysis include:
 Total Net Sales
 Total Orders
@@ -108,8 +112,11 @@ Average Order Value
 Average Rating
 
 📈 Power BI Dashboard
+
 The Power BI report consists of five analytical pages.
+
 1️⃣  Home- Sales Overview
+
 The Home page provides a high-level summary of business performance.
 KPIs
 Total Sales
@@ -130,6 +137,7 @@ Year
 The page provides an executive-level view of overall e-commerce performance.
 
 2️⃣ Product & Category Analysis
+
 This page focuses on product and category performance.
 Visualizations
 Sales by Product Category
@@ -143,6 +151,7 @@ Which products are the top performers?
 What percentage of total sales does each category contribute?
 
 3️⃣ Customer & Geography Analysis
+
 This page analyzes geographical and customer-related performance.
 Visualizations
 Sales by Country
@@ -156,6 +165,7 @@ Where are the highest numbers of orders?
 What is the distribution of customer ratings?
 
 4️⃣ Payment Analysis
+
 This page analyzes payment behavior and order trends.
 Visualizations
 Sales by Payment Method
@@ -169,6 +179,7 @@ How does order volume change over time?
 What is the distribution of customer payment preferences?
 
 5️⃣ Discount & Performance Analysis
+
 This page focuses on discounts and their relationship with sales performance.
 Visualizations
 Sales Before vs After Discount
@@ -181,6 +192,7 @@ How do gross and net sales differ?
 How does sales performance vary across categories and months?
 
 🎛️ Dashboard Interactivity
+
 The dashboard includes interactive controls for:
 Product Category
 Country
@@ -192,6 +204,7 @@ Page-navigation buttons allow users to move between different analytical section
 Bookmark allow users to move specific portion of the report.
 
 📁 Project Structure
+
 Ecommerce-Sales-Analysis/
 │
 ├── Data/
@@ -213,6 +226,7 @@ Ecommerce-Sales-Analysis/
 └── README.md
 
 🔍𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝗮𝗹 𝗔𝗿𝗲𝗮𝘀
+
 The final insights should be derived from the actual dashboard results rather than assumptions.
 Examples of questions addressed by the analysis include:
 Which product category contributes the most to total sales?
@@ -226,6 +240,7 @@ What is the distribution of customer ratings?
 Which categories have stronger customer ratings?
 
 📌 𝗗𝗮𝘁𝗮 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗖𝗼𝗻𝘀𝗶𝗱𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀
+
 During preprocessing, particular attention was given to transaction records containing unusual values.
 Examples:
 Zero quantities
@@ -237,6 +252,7 @@ Instead of automatically deleting every unusual value, additional status fields 
 This approach helps distinguish between data-quality issues and potentially meaningful business transactions, such as returns or adjustments.
 
 📚 𝗦𝗸𝗶𝗹𝗹𝘀 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱
+
 This project demonstrates practical skills in:
 Data Cleaning
 Data Preprocessing
